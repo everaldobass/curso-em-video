@@ -8,7 +8,7 @@
 - 10 JavaScript Projects in 10 Hours - Coding Challenge
 
 #### Sistema Pesquisa de usuários no GitHub
-<img src='./pesquisar-perfil-github/img/pesquisar-perfil-github.png ' width='100%'/>
+<img src='./pesquisar-perfil-github/img/pesquisa-perfil-github.png ' width='100%'/>
 
 
 
