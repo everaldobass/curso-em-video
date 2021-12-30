@@ -1,1 +1,1 @@
-# curso-em-video
+# Projetos em JavaScript
