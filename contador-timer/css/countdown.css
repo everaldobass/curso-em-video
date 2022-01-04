@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Fonts do Google*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap");
+
+
+/*Body */
+body{
+
+
+    background-image: url("/image/years.jpg");
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    
+
+}
+
+
+/*Style do h1*/
+h1{
+    font-weight: 600;
+    font-size: 5rem;
+    margin-top: 5rem;
+    color: white;
+
+}
+
+/*Classe do contador*/
+.countdown-container{
+    background: rgba(0, 0, 0, 0.63);
+    opacity: 90%;
+    border-radius: 20px;
+    padding: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    color: #fff;
+}
+
+/* Texto principal*/
+.big-text{
+    font-weight: bold;
+    font-size: 8rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+
+.countdown-el{
+    text-align: center;
+}
+
+.countdown-el span{
+    font-size: 1.8rem;
+    font-weight: 600;
+    color: white;
+}
